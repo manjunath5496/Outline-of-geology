@@ -1,10 +1,7 @@
 <h2>Outline of geology</h2>
 <p><strong><a title="Geology" href="https://en.wikipedia.org/wiki/Geology">Geology</a></strong>&nbsp;&ndash; one of the&nbsp;<a title="Earth science" href="https://en.wikipedia.org/wiki/Earth_science">Earth sciences</a>&nbsp;&ndash; is the study of the Earth, with the general exclusion of present-day life, flow within the ocean, and the atmosphere. The field of geology encompasses the composition, structure, physical properties, and history of Earth's components, and the processes by which it is shaped. Geologists typically study&nbsp;<a title="Rock (geology)" href="https://en.wikipedia.org/wiki/Rock_(geology)">rock</a>,&nbsp;<a title="Sediment" href="https://en.wikipedia.org/wiki/Sediment">sediment</a>,&nbsp;<a title="Soil" href="https://en.wikipedia.org/wiki/Soil">soil</a>,&nbsp;<a title="River" href="https://en.wikipedia.org/wiki/River">rivers</a>, and&nbsp;<a title="Natural resource" href="https://en.wikipedia.org/wiki/Natural_resource">natural resources</a>.</p>
-<div class="toclimit-2">
-<div id="toc" class="toc"><br />
-<div class="toctitle" dir="ltr" lang="en">
+</br>
 <h2 id="mw-toc-heading">Contents</h2>
-<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Branches_of_geology"><span class="toctext">Branches of geology</span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#Principles_of_geology"><span class="toctext">Principles of geology</span></a></li>
@@ -15,8 +12,7 @@
 <li class="toclevel-1 tocsection-10"><a href="#Influential_geologists"><span class="toctext">Influential geologists</span></a></li>
 <li class="toclevel-1 tocsection-11"><a href="#Geology_lists"><span class="toctext">Geology lists</span></a></li>
 </ul>
-</div>
-</div>
+</br>
 <h2><span id="Branches_of_geology" class="mw-headline">Branches of geology</span></h2>
 <p>Geology applies primarily to Earth, but can be applied to any planet or extraterrestrial body.</p>
 <h3><span id="Geology_of_Earth" class="mw-headline">Geology of Earth</span></h3>
